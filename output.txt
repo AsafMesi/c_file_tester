@@ -1,0 +1,11 @@
+Enter the arithmetic operation (+, -, *) or enter 'E' to exit.
+Enter the operands
+5 + 2 = 7
+Enter the arithmetic operation (+, -, *) or enter 'E' to exit.
+Enter the operands
+9 - 1 = 8
+Enter the arithmetic operation (+, -, *) or enter 'E' to exit.
+Enter the operands
+3 * 8 = 24
+Enter the arithmetic operation (+, -, *) or enter 'E' to exit.
+Exiting
